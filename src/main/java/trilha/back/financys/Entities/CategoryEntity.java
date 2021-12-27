@@ -1,3 +1,5 @@
+package trilha.back.financys.Entities;
+
 public class CategoryEntity {
 
     public Long id;

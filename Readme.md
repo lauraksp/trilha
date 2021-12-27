@@ -91,6 +91,15 @@ TRACE - O método TRACE executa um teste de chamada loop-back junto com o caminh
 
 PATCH - O método PATCH é utilizado para aplicar modificações parciais em um recurso.
 
+O documento Swagger é onde escrevemos todos os recursos que tem em determinada API REST e o que podemos fazer
+com esses recursos.
+
+Nesse documento também é especificado a lista de parâmetros para uma determinada operação, tendo os nomes e tipos de
+parâmetros, se são obrigatórios ou opcionais e quais valores são aceitos para os parâmetros.
+
+Os documentos swagger devem estar em qualquer formato JSON com uma extensão de arquivo .json ou formato YAML com uma extensão de arquivo .yaml ou .yml.
+
+
 
 
 
